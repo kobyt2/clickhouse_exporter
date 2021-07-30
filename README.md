@@ -1,7 +1,7 @@
 # Clickhouse Exporter for Prometheus
 
-[![Build Status](https://travis-ci.org/Percona-Lab/clickhouse_exporter.svg?branch=master)](https://travis-ci.org/Percona-Lab/clickhouse_exporter)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Percona-Lab/clickhouse_exporter)](https://goreportcard.com/report/github.com/Percona-Lab/clickhouse_exporter)
+[![Discord](https://img.shields.io/discord/808660945513611334?style=flat)](http://per.co.na/discord)
 
 This is a simple server that periodically scrapes ClickHouse(https://clickhouse.yandex/) stats and exports them via HTTP for Prometheus(https://prometheus.io/)
 consumption.
